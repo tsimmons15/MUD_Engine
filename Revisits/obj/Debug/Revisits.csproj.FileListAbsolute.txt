@@ -1,0 +1,7 @@
+T:\GitHub\Revisits\Revisits\bin\Debug\Revisits.exe.config
+T:\GitHub\Revisits\Revisits\bin\Debug\Revisits.exe
+T:\GitHub\Revisits\Revisits\bin\Debug\Revisits.pdb
+T:\GitHub\Revisits\Revisits\bin\Debug\System.Data.SqlServerCe.dll
+T:\GitHub\Revisits\Revisits\obj\Debug\Revisits.csprojResolveAssemblyReference.cache
+T:\GitHub\Revisits\Revisits\obj\Debug\Revisits.exe
+T:\GitHub\Revisits\Revisits\obj\Debug\Revisits.pdb
