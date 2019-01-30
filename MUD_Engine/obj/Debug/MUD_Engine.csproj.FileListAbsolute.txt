@@ -1,0 +1,10 @@
+C:\Users\student-eac\Desktop\GitHub\MUD_Engine\MUD_Engine\bin\Debug\Revisits.exe.config
+C:\Users\student-eac\Desktop\GitHub\MUD_Engine\MUD_Engine\obj\Debug\Revisits.exe
+C:\Users\student-eac\Desktop\GitHub\MUD_Engine\MUD_Engine\obj\Debug\Revisits.pdb
+C:\Users\student-eac\Desktop\GitHub\MUD_Engine\MUD_Engine\bin\Debug\Revisits.exe
+C:\Users\student-eac\Desktop\GitHub\MUD_Engine\MUD_Engine\bin\Debug\Revisits.pdb
+C:\Users\student-eac\Desktop\GitHub\MUD_Engine\MUD_Engine\bin\Debug\nunit.framework.dll
+C:\Users\student-eac\Desktop\GitHub\MUD_Engine\MUD_Engine\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\student-eac\Desktop\GitHub\MUD_Engine\MUD_Engine\bin\Debug\nunit.framework.pdb
+C:\Users\student-eac\Desktop\GitHub\MUD_Engine\MUD_Engine\bin\Debug\nunit.framework.xml
+C:\Users\student-eac\Desktop\GitHub\MUD_Engine\MUD_Engine\obj\Debug\MUD_Engine.csprojResolveAssemblyReference.cache

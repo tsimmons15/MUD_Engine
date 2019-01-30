@@ -53,6 +53,9 @@ namespace Revisits.Characters.CommandParser
                 case "down":
                     Console.WriteLine("You have chosen to move down stairs.");
                     break;
+                default:
+                    Console.WriteLine("A voice whispers to you, \"I do not understand.\"");
+                    break;
             }
         }
 

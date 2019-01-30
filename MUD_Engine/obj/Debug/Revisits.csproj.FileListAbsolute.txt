@@ -5,3 +5,6 @@ T:\GitHub\Revisits\Revisits\bin\Debug\System.Data.SqlServerCe.dll
 T:\GitHub\Revisits\Revisits\obj\Debug\Revisits.csprojResolveAssemblyReference.cache
 T:\GitHub\Revisits\Revisits\obj\Debug\Revisits.exe
 T:\GitHub\Revisits\Revisits\obj\Debug\Revisits.pdb
+C:\Users\student-eac\Desktop\GitHub\MUD_Engine\Revisits\bin\Debug\Revisits.exe.config
+C:\Users\student-eac\Desktop\GitHub\MUD_Engine\Revisits\obj\Debug\Revisits.exe
+C:\Users\student-eac\Desktop\GitHub\MUD_Engine\Revisits\obj\Debug\Revisits.pdb
