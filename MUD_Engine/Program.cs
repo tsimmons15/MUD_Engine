@@ -15,11 +15,10 @@ namespace Revisits
             {
                 string line = Console.ReadLine();
                 parser.Parse(line);
-
-
+                
                 if (parser.HasQuit())
                 {
-
+                    break;
                 }
             }
 
