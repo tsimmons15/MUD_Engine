@@ -4,7 +4,7 @@ using System.Data.SqlServerCe;
 using System.IO;
 using System.Text;
 
-namespace Revisits
+namespace Engine
 {
     class DatabaseInterface
     {

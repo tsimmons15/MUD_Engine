@@ -1,5 +1,5 @@
 ﻿
-namespace Revisits.Characters.Utilities
+namespace Engine.Characters.Utilities
 {
     class Item
     {

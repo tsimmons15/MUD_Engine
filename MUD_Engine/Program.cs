@@ -1,7 +1,7 @@
-﻿using Revisits.Characters.CommandParser;
+﻿using Engine.Characters.CommandParser;
 using System;
 
-namespace Revisits
+namespace Engine
 {
     class Program
     {

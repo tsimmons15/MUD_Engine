@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Revisits.Characters.CommandParser
+namespace Engine.Characters.CommandParser
 {
-    class Parser
+    public class Parser
     {
         private bool QuitCalled { get; set; }
         public void Parse(string input)

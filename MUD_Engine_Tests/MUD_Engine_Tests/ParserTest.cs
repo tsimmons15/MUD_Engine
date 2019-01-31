@@ -1,6 +1,7 @@
 ﻿using System;
+using Engine.Characters.CommandParser;
 using NUnit.Framework;
-namespace UnitTestProject1
+namespace NUnit.UnitTestProject1
 {
     [TestFixture]
     public class ParserTest
@@ -8,6 +9,7 @@ namespace UnitTestProject1
         [Test]
         public void TestMethod1()
         {
+            Assert.That(1 == 1);
         }
     }
 }
